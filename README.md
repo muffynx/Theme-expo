@@ -8,7 +8,7 @@ git clone https://github.com/muffynx/Theme-expo
 npm install expo
 ```
 ```
-npm rxpo start
+npx expo start
 ```
 
 ---
